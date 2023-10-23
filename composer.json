@@ -61,5 +61,11 @@
             "dealerdirect/phpcodesniffer-composer-installer": true
         },
         "sort-packages": true
+    },
+    "extra": {
+        "virion": {
+            "spec": "3.0",
+            "namespace-root": "MongoDB"
+        }
     }
 }
